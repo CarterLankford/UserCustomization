@@ -4,7 +4,8 @@ A place for my environment customization for Windows and Linux.
 
 ## Contents
 * [Goals](#Goals)
-* [How to](#How to)
+
+* [How to](#How-to)
 
 
 
@@ -44,48 +45,66 @@ A place for my environment customization for Windows and Linux.
 
 
 ## Goals
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
 ## How to
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
