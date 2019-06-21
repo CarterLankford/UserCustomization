@@ -10,7 +10,7 @@ A place for my environment customization for Windows and Linux.
   * [Type](#Type)
   * [Priority](#Priority)
 * [How to](#How-to)
-* [Installation instructions](#Installation-instructions)
+  * [Installation instructions](#Installation-instructions)
 
 ## Goals
   The goal of this repository is to allow me to have one place to store my config files. With how frequently I move between operating systems, both for personal and professional reasons, it would be nice to have one spot for everything. Some of this config files can be very important to my productivity. Since I am mostly color blind some settings that are used on linux terminals have a color scheme that isn't easily readable to me. In fact most of the time, it's like trying to read off black text on a black background. 
